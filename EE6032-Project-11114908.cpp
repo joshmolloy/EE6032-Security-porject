@@ -19,7 +19,7 @@ extern "C" {
 // for the AES Encryption & Hashing
 #include "../include/CkCrypt2.h"
 
-// for RSA
+
 #include "../include/CkRsa.h"
 #include "../include/CkPrivateKey.h"
 #include "../include/CkPublicKey.h"
